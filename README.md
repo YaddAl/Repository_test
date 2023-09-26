@@ -91,7 +91,7 @@
 &nbsp;  
 
   <!-- Skills to learn -->
-<p><H3 align="center"><strong>Skills to learn: 🌐</strong></p>
+<p><h3 align="center"><strong>Skills to learn: 🌐</strong></p>
   
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/101125928-05122400-35c0-11eb-836b-4c2e4de16070.png"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/99864609-ecd6e980-2b69-11eb-8268-1a455c00eefe.png"></code>
@@ -104,20 +104,19 @@
 &nbsp;
 
 <!-- GitHub Stats -->
-<H2 align="center"><strong>GitHub Statistics: 📈
+<h2 align="center"><strong>GitHub Statistics: 📈
   </strong>
-</H2>
+</h2>
     <p align="center">
       <div align="center">
     </p>
     
 <a href="https://github.com/Lunox-code?tab=repositories">
   <img align="center" 
-       src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Lunox-code&layout=compact&show_icons=true&title_color=81a1c0&icon_color=79ff97&text_color=d5dbe6&bg_color=2e3440](https://camo.githubusercontent.com/245d78c8b00fc04808c487fcd568a5ca9056d8fdbbbc37752b5646bed8bbc24c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d7472756526686964653d636f6e74726962732c7072732663616368655f7365636f6e64733d3836343030267468656d653d6a6f6c6c79)https://camo.githubusercontent.com/245d78c8b00fc04808c487fcd568a5ca9056d8fdbbbc37752b5646bed8bbc24c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d7472756526686964653d636f6e74726962732c7072732663616368655f7365636f6e64733d3836343030267468656d653d6a6f6c6c79" 
-       alt='Lunox's favorite languages" />
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lunox-code&layout=compact&show_icons=true&title_color=81a1c0&icon_color=79ff97&text_color=d5dbe6&bg_color=2e3440"
 </a>
   
 <a href="https://github.com/Lunox-code">
   <img align="center"
-       src="https://github-readme-stats.vercel.app/api?username=Lunox-code&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nord" />
+       src="https://camo.githubusercontent.com/245d78c8b00fc04808c487fcd568a5ca9056d8fdbbbc37752b5646bed8bbc24c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d7472756526686964653d636f6e74726962732c7072732663616368655f7365636f6e64733d3836343030267468656d653d6a6f6c6c79" />
 </a>
